@@ -1,0 +1,19 @@
+﻿Сборка начата 03.06.2016 22:49:49.
+     1>Проект "C:\Users\User\Desktop\Программы\FLAPPY BIRD WINAPI\FLAPPY BIRD WINAPI\FLAPPY BIRD WINAPI.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt WinMain.cpp
+         WinMain.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\Программы\FLAPPY BIRD WINAPI\Release\FLAPPY BIRD WINAPI.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\User\Desktop\Программы\FLAPPY BIRD WINAPI\Release\FLAPPY BIRD WINAPI.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\Программы\FLAPPY BIRD WINAPI\Release\FLAPPY BIRD WINAPI.lib" /MACHINE:X86 /SAFESEH Release\GAME.obj
+         Release\WinMain.obj
+         Создание кода
+         2 of 12 functions (16.7%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Создание кода завершено
+         FLAPPY BIRD WINAPI.vcxproj -> C:\Users\User\Desktop\Программы\FLAPPY BIRD WINAPI\Release\FLAPPY BIRD WINAPI.exe
+     1>Сборка проекта "C:\Users\User\Desktop\Программы\FLAPPY BIRD WINAPI\FLAPPY BIRD WINAPI\FLAPPY BIRD WINAPI.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.85
